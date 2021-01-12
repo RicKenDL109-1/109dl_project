@@ -5,7 +5,6 @@
 *.tiff
 *.heic
 *.JPEG
-*.PNG
 *.BMP
 *.TIF
 *.TIFF
@@ -32,7 +31,6 @@ runs/*
 !data/*.sh
 
 pycocotools/*
-results*.txt
 gcp_test*.sh
 
 # MATLAB GitIgnore -----------------------------------------------------------------------------------------------------
