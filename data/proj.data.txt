@@ -1,0 +1,4 @@
+classes=2
+train=../proj_data/train.txt
+valid=../proj_data/valid.txt
+names=data/proj.names

@@ -1,0 +1,13 @@
+./images/test_video_4_frame_304.jpg
+./images/test_video_4_frame_330.jpg
+./images/test_video_4_frame_387.jpg
+./images/test_video_4_frame_548.jpg
+./images/test_video_4_frame_566.jpg
+./images/test_video_5_frame_432.jpg
+./images/test_video_6_frame_351.jpg
+./images/test_video_6_frame_383.jpg
+./images/test_video_6_frame_530.jpg
+./images/test_video_6_frame_602.jpg
+./images/test_video_6_frame_693.jpg
+./images/test_video_6_frame_708.jpg
+./images/test_video_6_frame_731.jpg
